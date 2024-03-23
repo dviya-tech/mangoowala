@@ -818,8 +818,8 @@ textarea.form-control {
 }
 
 .work-section .item .icn {
-    width: 119px;
-    height: 119px;
+    width: 189px;
+    height: 189px;
     display: block;
     border: 1px solid #fff;
     border-radius: 100%;
@@ -945,7 +945,7 @@ textarea.form-control {
 }
 
 .gallery-section {
-    background-color: #99ccff;
+    background-color: #fff;
 }
 
 .gallery-section .title {
@@ -1042,7 +1042,7 @@ figure.effect-julia:hover p {
 }
 
 .gallery-section .title h2 {
-    color: #006699;
+    color: #fff;
 }
 .gallery-section .slick-list {
     margin-bottom: 40px;
@@ -1069,7 +1069,7 @@ figure.effect-julia:hover p {
 
 .gallery-section .slick-dots li.slick-active,
 .gallery-section .slick-dots li:hover {
-    background-color: #006699;
+    background-color: #008631;
 }
 
 .gallery-section .slick-dots li button {
