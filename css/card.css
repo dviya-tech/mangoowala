@@ -193,7 +193,7 @@ a.buy-btn:focus {
     .wsk-cp-product .wsk-cp-text .category {
         margin-top: 0px;
     }
-    a.buy-btn {
+    a.buy-btn:active,a.buy-btn:hover,a.buy-btn:focus {
         border-color: #ff9800;
         background: #ff9800;
         color: #fff;
